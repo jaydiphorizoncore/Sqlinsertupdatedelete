@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SQLite Insert Update Delete</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_city">Enter City</string>
+    <string name="button">Insert</string>
+    <string name="first">First</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="Last">Last</string>
+    <string name="Update">Update</string>
+    <string name="Delete">Delete</string>
+    <string name="showall">Show All Data</string>
+    <string name="dataNOtFound">No Data Found</string>
+</resources>
